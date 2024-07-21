@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gursigh.github.io/sitemap
+Sitemap: https://gursigh.github.io/app/sitemap
+Sitemap: https://gursigh.github.io/assets/sitemap
+Sitemap: https://gursigh.github.io/css/sitemap
+Sitemap: https://gursigh.github.io/includes/sitemap
+Sitemap: https://gursigh.github.io/item/sitemap
+Sitemap: https://gursigh.github.io/src/sitemap
